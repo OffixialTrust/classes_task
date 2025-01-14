@@ -22,4 +22,5 @@ const acc1 = new Account("Trust Richard", 5000);
 acc1.deposit(2000);
 acc1.withdraw(800);
 
+// output the value of the account balance
 console.log(acc1.balance);
